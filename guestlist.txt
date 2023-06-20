@@ -4,3 +4,7 @@ George
 Waldo
 Lisa
 Joey
+Olaf
+Elsa
+Paul
+Ricardo
